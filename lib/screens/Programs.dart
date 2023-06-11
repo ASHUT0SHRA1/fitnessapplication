@@ -24,7 +24,7 @@ class Programs extends StatelessWidget {
               BoxShadow(
                   color: Colors.grey.shade400,
                   spreadRadius: 2.0,
-                  blurRadius: 3.0
+                  blurRadius: 4.0
               )
             ]
         ),
