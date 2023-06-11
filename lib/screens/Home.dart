@@ -1,6 +1,6 @@
-import 'package:fit_app/screens/Lessons.dart';
+import 'package:fit_app/screens/lessonWidget.dart';
 import 'package:fit_app/screens/Programs.dart';
-import 'package:fit_app/screens/events_exp.dart';
+import 'package:fit_app/screens/events.dart';
 import 'package:flutter/material.dart';
 
 class Home extends StatelessWidget {

@@ -1,13 +1,16 @@
-import 'package:fit_app/screens/pages_selection.dart';
+import 'package:fit_app/screens/bottomnavigationbar.dart';
 import 'package:flutter/material.dart';
-
 void main() {
-  runApp(MaterialApp(
-    initialRoute: '/screen',
-    routes: {
-      "/screen":(context)=>Screen(),
-    },
-    debugShowCheckedModeBanner: false,
-  ));
+  runApp(const MyApp());
 }
 
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      home: Screen(),
+    );
+  }
+}
