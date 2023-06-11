@@ -1,5 +1,6 @@
 ## Demo video
 
+https://github.com/ASHUT0SHRA1/fitnessapplication/assets/89987124/8abdbcc8-0132-4c24-9095-2ef3d009185d
 
 # fit_app
 
@@ -19,5 +20,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-https://github.com/ASHUT0SHRA1/fitnessapplication/assets/89987124/8abdbcc8-0132-4c24-9095-2ef3d009185d
 
